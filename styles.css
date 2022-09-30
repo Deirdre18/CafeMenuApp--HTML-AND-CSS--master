@@ -4,6 +4,12 @@ p {
     text-align: center;
 }
 
-body {
-    color: burlywood;
+body
+/* {    
+  background-color: burlywood;
+  } */
+
+div {
+    width: 80%;
+    background-color: burlywood;
 }
